@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 3: Disk and Permission Auditor
-# Author: [HARSHIT] | Registration: [24BAI10967]
+# Author: [Aryan Thombare] | Registration: [24BCE10278]
 # Course: Open Source Software | Capstone Project
 # Purpose: Audit key Linux directories for permissions and size
 # ============================================================
