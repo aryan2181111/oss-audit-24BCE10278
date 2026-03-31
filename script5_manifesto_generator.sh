@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 5: Open Source Manifesto Generator
-# Author: [HARSHIT] | Registration: [24BAI10967]
+# Author: [Aryan Thombare] | Registration: [24BCE10278]
 # Course: Open Source Software | Capstone Project
 # Purpose: Interactively generate a personal OSS philosophy statement
 # ============================================================
@@ -13,7 +13,7 @@
 # Note: aliases are shell-session scoped; they don't persist across scripts.
 
 # --- Define output file name using current username ---
-OUTPUT="manifesto_Harshit18-web.txt"
+OUTPUT="manifesto_aryan2181111.txt"
 
 # --- Print welcome banner ---
 echo "============================================"
@@ -66,7 +66,7 @@ echo ""
 DATE=28-03-2026
 
 # --- Get the username for personalisation ---
-USER_ID="Harshit18-web"
+USER_ID="aryan2181111"
 
 # --- Compose the manifesto using string concatenation and echo >> ---
 # The >> operator appends to the file (creates it if it doesn't exist)
@@ -99,11 +99,11 @@ echo "$BUILD and sharing it freely with the world." >> "$OUTPUT"
 echo "Because the best way to honour the giants whose shoulders" >> "$OUTPUT"
 echo "I stand on is to become a shoulder for someone else." >> "$OUTPUT"
 echo "" >> "$OUTPUT"
-echo "Signed: Harshit18-web | $DATE" >> "$OUTPUT"
+echo "Signed: aryan2181111 | $DATE" >> "$OUTPUT"
 echo "============================================" >> "$OUTPUT"
 
 # --- Confirm file was saved ---
-echo "  Manifesto saved to: Harshit18-web"
+echo "  Manifesto saved to: aryan2181111"
 echo ""
 
 # --- Display the generated manifesto ---
