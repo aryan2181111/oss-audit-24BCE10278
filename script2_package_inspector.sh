@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 2: FOSS Package Inspector
-# Author: [HARSHIT] | Registration: [24BAI10967]
+# Author: [Aryan Thombare] | Registration: [24BCE10278]
 # Course: Open Source Software | Capstone Project
 # Purpose: Check if a FOSS package is installed and describe it
 # ============================================================
